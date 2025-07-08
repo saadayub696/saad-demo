@@ -10,7 +10,7 @@ print("Subtraction of two numbers is:")
 sub=a-b
 print(sub)
 print("Multiplication of two numbers is:")
-mul=a+b
+mul=a*b
 print(mul)
 print("Division of two numbers is:")
 div=a/b
